@@ -1,4 +1,4 @@
-import Models.{Arrombado, Estudante, Timbu}
+import Models.{Arrombado, EstudanteCesarSchool, Timbu}
 import Traits.Animal
 
 trait Animal {
