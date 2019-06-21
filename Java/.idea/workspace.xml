@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3bbe040-f436-42a8-949d-9f709d299a0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$1b23d00c6507a894ce1c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$56c790fcf56edc31456c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$90e5682dbd5adefcf98d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/config-classes/$b152f38d242cf33ae6fc.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/reports/scalaproject-scalaproject_2.13-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject_2.13/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/scala-2.13/resolution-cache/scalaproject/scalaproject_2.13/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scala/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Scala/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3bbe040-f436-42a8-949d-9f709d299a0c" name="Default Changelist" comment="" />
+      <created>1561068862281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561068862281</updated>
+      <workItem from="1561068872223" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="26000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1928" height="1039" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

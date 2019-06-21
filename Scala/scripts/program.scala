@@ -1,5 +1,5 @@
-import Models.{Arrombado, EstudanteCesarSchool, Timbu}
-import Traits.Animal
+import models.{Arrombado, EstudanteCesarSchool, Timbu}
+import traits.Animal
 
 trait Animal {
     def sound() : String
@@ -14,15 +14,15 @@ abstract class Mamifero(protected val nome: String, protected val idade: Int) ex
     }
 }
 
-class Timbu(nome: String, idade: Int) extends Models.Mamifero(nome, idade) {
+class Timbu(nome: String, idade: Int) extends models.Mamifero(nome, idade) {
     def sound() = "squeek"
 }
 
-class Estudante(nome: String, idade: Int) extends Models.Mamifero(nome, idade) {
+class Estudante(nome: String, idade: Int) extends models.Mamifero(nome, idade) {
     def sound() = "joao fudeu meu find"
 }
 
-class Arrombado(nome: String, idade: Int) extends Models.Mamifero(nome, idade) {
+class Arrombado(nome: String, idade: Int) extends models.Mamifero(nome, idade) {
     def sound() = "perdi"
 }
 
