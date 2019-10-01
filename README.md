@@ -1,6 +1,6 @@
 # ScalaPresentation
 
-Repo para apresentação sobre scala para matéria de Programação Orientada a objeto.
+Repositório para apresentação sobre scala para matéria de Programação Orientada a objeto.
 
 Para rodar se precisa do Intellij com plugin Scala.
 
